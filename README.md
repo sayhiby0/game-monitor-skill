@@ -1,6 +1,6 @@
 # game-monitor-skill
 
-QoderWork Agent Skill: 游戏舆情监控
+Skill: 游戏舆情监控
 
 输入一个游戏名称，从官网、官方社区、TapTap、NGA、Reddit、机核、游民星空等多渠道采集该游戏的最新动态，分析舆论走向（正面与负面）、运营/营销事件、创新玩法与口碑亮点，输出结构化 Markdown 舆情报告。
 
